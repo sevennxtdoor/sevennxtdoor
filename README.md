@@ -1,6 +1,6 @@
 ## Hi, I'm Seven 👋
 
-I'm from Indonesia and I'm learning C++ by building a Growtopia private server.
+I'm from Indonesia and I'm building a Growtopia private server.
 
 ### 🌱 What I'm working on
 
