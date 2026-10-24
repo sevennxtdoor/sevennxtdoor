@@ -9,6 +9,9 @@ I'm from Indonesia and I like make Project.
 - Token login page with hashed passwords, flood and anti-cheat guards
 - An offline test suite that runs the server code against a local database
 
+**[SevenIsland](https://github.com/sevennxtdoor/Seven)**
+Seven is a small black pill that lives above your windows. It shows what's playing, counts down your timers and catches your notifications, then opens into a full panel when you hover it.
+
 ### 🤝 Contributions
 
 - [gurotopia/Gurotopia#83](https://github.com/gurotopia/Gurotopia/pull/83) — don't crash when a world's saved drops are empty
