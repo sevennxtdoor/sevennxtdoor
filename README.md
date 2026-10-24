@@ -1,6 +1,6 @@
 ## Hi, I'm Seven 👋
 
-I'm from Indonesia and I'm building a Growtopia private server.
+I'm from Indonesia and I'm building a Growtopia private server and windows apps.
 
 ### 🌱 What I'm working on
 
