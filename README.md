@@ -12,7 +12,3 @@ I'm from Indonesia and I like make Project.
 ### 🤝 Contributions
 
 - [gurotopia/Gurotopia#83](https://github.com/gurotopia/Gurotopia/pull/83) — don't crash when a world's saved drops are empty
-
-### 🛠️ Tools
-
-C++20 · MariaDB · ENet · OpenSSL · Windows (MSYS2 / MinGW)
