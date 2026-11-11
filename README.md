@@ -1,6 +1,6 @@
 ## Hi, I'm Seven 👋
 
-I'm from Indonesia and I like making projects: game servers, Windows apps and more.
+I'm from Earth and I like making projects
 
 ### 🚀 Projects
 
